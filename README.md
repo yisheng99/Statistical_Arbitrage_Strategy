@@ -17,3 +17,6 @@ Step 4. Execute the strategy and calculate the return (Chart 1)
 **Chart 1**
 
 ![image](https://user-images.githubusercontent.com/121606452/211153192-0324810a-12f6-4cbc-802b-65a302b7aee0.png)
+
+
+Voila! The chart above visualizes the portfolio returns had the strategy been implemented since 2018. 
